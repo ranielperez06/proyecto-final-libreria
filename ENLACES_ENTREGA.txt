@@ -4,4 +4,4 @@ Enlace del código fuente en GitHub:
 https://github.com/ranielperez06/proyecto-final-libreria
 
 Enlace del portal publicado:
-PENDIENTE DE COMPLETAR LA AUTENTICACIÓN DEL HOSTING
+https://proyectof-rainiel.great-site.net/

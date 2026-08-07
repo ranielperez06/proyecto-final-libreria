@@ -36,8 +36,9 @@ try {
     $parametros = [];
 
     if ($busqueda !== '') {
-        $condiciones[] = '(t.titulo LIKE :busqueda OR t.notas LIKE :busqueda)';
-        $parametros['busqueda'] = '%' . $busqueda . '%';
+        $condiciones[] = '(t.titulo LIKE :busqueda_titulo OR t.notas LIKE :busqueda_notas)';
+        $parametros['busqueda_titulo'] = '%' . $busqueda . '%';
+        $parametros['busqueda_notas'] = '%' . $busqueda . '%';
     }
 
     if ($tipoSeleccionado !== '') {

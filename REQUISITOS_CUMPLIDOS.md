@@ -19,14 +19,11 @@
 | Uso de `count()` | Conteo de resultados | Cumplido |
 | Uso de `sizeof()` | Conteo de categorías | Cumplido |
 | Código en GitHub o CodeSandbox | https://github.com/ranielperez06/proyecto-final-libreria | Cumplido |
-| Sitio en hosting público gratuito | Proyecto preparado para hosting PHP/MySQL | Pendiente de publicar |
+| Sitio en hosting público gratuito | https://proyectof-rainiel.great-site.net/ | Cumplido |
 
 ## Entregables externos
 
-La plataforma solicita dos enlaces:
+La plataforma solicita dos enlaces, ambos disponibles:
 
-1. Dirección pública del portal en un hosting PHP/MySQL distinto de Replit.
-2. Dirección del código fuente publicado en GitHub o CodeSandbox.
-
-Estos enlaces se completan después de crear las cuentas o usar sesiones ya
-autenticadas en cada servicio.
+1. Portal publicado: https://proyectof-rainiel.great-site.net/
+2. Código fuente: https://github.com/ranielperez06/proyecto-final-libreria

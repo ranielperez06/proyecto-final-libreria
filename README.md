@@ -8,7 +8,7 @@ mensajes mediante un formulario que almacena la información en la tabla
 ## Enlaces del proyecto
 
 - Código fuente: https://github.com/ranielperez06/proyecto-final-libreria
-- Aplicación web: pendiente de completar la autenticación del hosting.
+- Aplicación web: https://proyectof-rainiel.great-site.net/
 
 ## Tecnologías
 
