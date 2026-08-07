@@ -5,6 +5,11 @@ consultar el catálogo de libros, explorar el directorio de autores y enviar
 mensajes mediante un formulario que almacena la información en la tabla
 `contacto`.
 
+## Enlaces del proyecto
+
+- Código fuente: https://github.com/ranielperez06/libreria-horizonte-php-mysql
+- Aplicación web: pendiente de completar la autenticación del hosting.
+
 ## Tecnologías
 
 - HTML5 semántico y accesible.

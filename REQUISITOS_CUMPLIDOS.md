@@ -18,7 +18,7 @@
 | Uso de `PDO query` | Categorías y contadores sin entradas externas | Cumplido |
 | Uso de `count()` | Conteo de resultados | Cumplido |
 | Uso de `sizeof()` | Conteo de categorías | Cumplido |
-| Código en GitHub o CodeSandbox | Repositorio preparado para publicación | Pendiente de publicar |
+| Código en GitHub o CodeSandbox | https://github.com/ranielperez06/libreria-horizonte-php-mysql | Cumplido |
 | Sitio en hosting público gratuito | Proyecto preparado para hosting PHP/MySQL | Pendiente de publicar |
 
 ## Entregables externos
