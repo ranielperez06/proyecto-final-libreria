@@ -1,0 +1,12 @@
+# Credenciales locales o del hosting
+config/configuracion.local.php
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Registros y temporales
+*.log
+tmp/
