@@ -1,7 +1,7 @@
 PROYECTO FINAL - LIBRERÍA HORIZONTE
 
 Enlace del código fuente en GitHub:
-https://github.com/ranielperez06/libreria-horizonte-php-mysql
+https://github.com/ranielperez06/proyecto-final-libreria
 
 Enlace del portal publicado:
 PENDIENTE DE COMPLETAR LA AUTENTICACIÓN DEL HOSTING
